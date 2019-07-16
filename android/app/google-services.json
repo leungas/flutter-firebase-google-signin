@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824914552913",
+    "firebase_url": "https://example-firebaseauth-leungas.firebaseio.com",
+    "project_id": "example-firebaseauth-leungas",
+    "storage_bucket": "example-firebaseauth-leungas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824914552913:android:abe21f6a3cd816fa",
+        "android_client_info": {
+          "package_name": "dev.leungas.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824914552913-s6uos74pvftpsrj9e4g6b9a2qk3ubu9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.leungas.firebase_auth",
+            "certificate_hash": "4f1f9e93db2860ff5adbdb6447a525843d215070"
+          }
+        },
+        {
+          "client_id": "824914552913-a7rff7lii30ocvjcvo7jh89a1av0ki5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67SpB8-TM93pQdKIdkVEiCSwl-yeDKOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824914552913-a7rff7lii30ocvjcvo7jh89a1av0ki5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
